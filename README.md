@@ -1,6 +1,6 @@
 - Instalar Virtualenv
-virtualenv blog-api
+#virtualenv blog-api
 
 - Instalar dependencias do projeto com:
 
-pip install -r requirements.txt
+#pip install -r requirements.txt
