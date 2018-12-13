@@ -19,6 +19,7 @@ def hello_name(name):
 
 @app.route('/all-news')
 def allnews():
+    #resolve temporariamente.
     from models import Post
     posts = Post.list_all()
     return posts
